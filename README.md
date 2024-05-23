@@ -1,7 +1,7 @@
 # Business360
 
-The objective of this project is to enhance and improve different areas of AtliQ Hardwres business, such as Finance, Sales, Supply Chain, Executive Management, and Marketing. The goals and significant accomplishments for each perspective are detailed below:
-[Live Dashboard Link:] (https://app.powerbi.com/view?r=eyJrIjoiYmNlNjVlYzYtZDVmNi00NTYzLWI0ZDgtMWVkMGM2NmVjNjVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+The objective of this project is to enhance and improve different areas of AtliQ Hardwres business, such as Finance, Sales, Supply Chain, Executive Management, and Marketing. The goals and significant accomplishments for each perspective are detailed below:<br>
+**Live Dashboard Link:** (https://app.powerbi.com/view?r=eyJrIjoiYmNlNjVlYzYtZDVmNi00NTYzLWI0ZDgtMWVkMGM2NmVjNjVmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)<br>
 **Finance View**
 **Goals:**
 1. Enhance the financial planning and budgeting processes.
@@ -76,6 +76,9 @@ The objective of this project is to enhance and improve different areas of AtliQ
 **Soft Skills**
 1.	Stakeholders mapping analysis
 2.	Effective communication with stakeholders feedback and management
-3.	Business and domain knowledge in sales,finance,marketing and supply chain.
-Conclusion
-The dashboard provides solutions to various business inquiries depending on different scenarios. This report enables data-driven decision-making to enhance AtliQ's profitability.
+3.	Business and domain knowledge in sales,finance,marketing and supply chain.<br>
+```
+**Conclusion**
+The dashboard provides solutions to various business inquiries depending on different scenarios.
+This report enables data-driven decision-making to enhance AtliQ's profitability.
+```
