@@ -56,13 +56,13 @@ The objective of this project is to enhance and improve different areas of AtliQ
 6.	Dynamic titles based on the applied filters
 7.	PowerBI services for publishing and sharing reports online
 8.	Auto refresh setup for data through gateway
-9.	Creating date table using M language
+9.	Creating date table using M language<br><br>
 **Tech Stacks**
 1.	SQL
 2.	PowerBI Desktop
 3.	DAX language
 4.	Dax studio( TO REDUCE FILE SIZE)
-5.	Project Charter file
+5.	Project Charter file<br><br>
 **Business Related Terms**
 1.	Gross Margin,Gross Margin %
 2.	Gross Sales , Gross Sales %
@@ -72,7 +72,7 @@ The objective of this project is to enhance and improve different areas of AtliQ
 6.	COGS(cost of goods sold)
 7.	YTG (year to go)
 8.	YTD ( year to date)
-9.	Direct ,retailer, consumer and distributors
+9.	Direct ,retailer, consumer and distributors<br><br>
 **Soft Skills**
 1.	Stakeholders mapping analysis
 2.	Effective communication with stakeholders feedback and management
